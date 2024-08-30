@@ -1,0 +1,6 @@
+Pour tester ces différents exemple, vous pouvez copier le contenu de ce 
+répertoire dans un répertoire de l'arborescence de votre serveur Web.
+Vous pouvez ensuite accéder au sommaire général avec une URL du type :
+http://serveur/repertoire/index.php 
+En complément, le répertoire "sql" contient les scripts permettant de créer les tables
+utilisées dans les différents exemples.
